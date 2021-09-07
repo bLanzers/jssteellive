@@ -1,11 +1,11 @@
-import "./popper.min.js";
-import "./bootstrap.min.js";
-import "./jquery.easing.min.js";
-// import "./swiper.min.js";
-import "./jquery.magnific-popup.js";
-import "./morphext.min.js";
-import "./isotope.pkgd.min.js";
-import "./validator.min.js";
+// import "./popper.min.js";
+// import "./bootstrap.min.js";
+// import "./jquery.easing.min.js";
+// // import "./swiper.min.js";
+// import "./jquery.magnific-popup.js";
+// import "./morphext.min.js";
+// import "./isotope.pkgd.min.js";
+// import "./validator.min.js";
 // import "./scripts.js";
 
 /* Template: Aria - Business HTML Landing Page Template
